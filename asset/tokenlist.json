@@ -1,0 +1,12 @@
+[
+    {
+        "asset": "c60_t0xEbf94773bF40aBBF04f25dB970f1c43bDdCc5890",
+        "type": "ERC20",
+        "address": "0xEbf94773bF40aBBF04f25dB970f1c43bDdCc5890",
+        "name": "Binance USD",
+        "symbol": "BUSD",
+        "decimals": 18,
+        "logoURI": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xEbf94773bF40aBBF04f25dB970f1c43bDdCc5890/logo.png",
+        "pairs": []
+    }
+]
