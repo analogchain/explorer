@@ -1,0 +1,37 @@
+[
+    {
+        "asset": "c60_t0xEbf94773bF40aBBF04f25dB970f1c43bDdCc5890",
+        "type": "ERC20",
+        "address": "0xEbf94773bF40aBBF04f25dB970f1c43bDdCc5890",
+        "name": "Binance USD",
+        "symbol": "BUSD",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/amankumarp/papperwallet-assets/master/asset/blockchain/rabbit/0xEbf94773bF40aBBF04f25dB970f1c43bDdCc5890/logo.png",
+        "pairs": []
+    },
+
+    {
+       
+        "asset": "0xCdcB6fFFBD8d68b3ED53E1B4fC1616Ee24De360a",
+        "type": "ERC20",
+        "address": "0xCdcB6fFFBD8d68b3ED53E1B4fC1616Ee24De360a",
+        "name": "Chainlink",
+        "symbol": "LINK",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/amankumarp/papperwallet-assets/master/asset/blockchain/rabbit/0xCdcB6fFFBD8d68b3ED53E1B4fC1616Ee24De360a/logo.png",
+        "pairs": []
+    },
+
+
+    {
+       
+        "asset": "0x2f5d41CbA7aaE91F1bA8fb7D23F1493bD25460c2",
+        "type": "ERC20",
+        "address": "0x2f5d41CbA7aaE91F1bA8fb7D23F1493bD25460c2",
+        "name": "INRx",
+        "symbol": "Inrx",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/amankumarp/papperwallet-assets/master/asset/blockchain/rabbit/0x2f5d41CbA7aaE91F1bA8fb7D23F1493bD25460c2/logo.png",
+        "pairs": []
+    }
+]

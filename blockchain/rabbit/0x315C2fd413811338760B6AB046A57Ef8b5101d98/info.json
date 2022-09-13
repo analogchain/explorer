@@ -1,0 +1,36 @@
+{
+    "name": "Binance USD",
+    "website": "https://www.trueusd.com/",
+    "description": "TrueUSD is the first independently-verified digital asset redeemable 1-for-1 for US Dollars.",
+    "explorer": "https://rabbit.analogscan.com/token/0x315C2fd413811338760B6AB046A57Ef8b5101d98/token-transfers",
+    "type": "ERC20",
+    "symbol": "Binance USD (xtringBUSD)",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x315C2fd413811338760B6AB046A57Ef8b5101d98",
+    "tags": [
+        "stablecoin"
+    ],
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/trusttoken/TrueUSD"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/tusd_official"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/TUSDofficial_EN"
+        },
+        {
+            "name": "medium",
+            "url": "https://trueusd.medium.com/"
+        },
+        {
+            "name": "coingecko",
+            "url": "https://coingecko.com/en/coins/true-usd/"
+        }
+    ]
+}
