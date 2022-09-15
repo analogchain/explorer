@@ -1,13 +1,13 @@
 {
-    "name": "Differentiation LPs (Differentiation-LP)",
-    "website": "https://www.trueusd.com/",
-    "description": "TrueUSD is the first independently-verified digital asset redeemable 1-for-1 for US Dollars.",
-    "explorer": "https://rabbit.analogscan.com/token/0x77f663c7de367821708b9dcdd2681bbc3317025a/token-transfers",
+    "name": "Analog",
+    "website": "",
+    "description": "Analog",
+    "explorer": "https://rabbit.analogscan.com/token/0x8D865AD496D082C197C000B04F80FBB33D7F9006",
     "type": "ERC20",
-    "symbol": "Differentiation LPs (Differentiation-LP)",
+    "symbol": "INRx",
     "decimals": 18,
     "status": "active",
-    "id": "0x0E4C05C7c201302DDcCDC196D176F95Ee5F564c0",
+    "id": "0x8D865AD496D082C197C000B04F80FBB33D7F9006",
     "tags": [
         "stablecoin"
     ],
