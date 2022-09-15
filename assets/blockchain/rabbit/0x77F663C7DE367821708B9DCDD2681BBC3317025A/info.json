@@ -1,13 +1,13 @@
 {
-    "name": "Analog",
-    "website": "",
-    "description": "Analog",
-    "explorer": "https://rabbit.analogscan.com/token/0x8d865ad496d082c197c000b04f80fbb33d7f9006",
+    "name": "INRx",
+    "website": "https://www.trueusd.com/",
+    "description": "INRx is the first independently-verified digital asset redeemable 1-for-1 for US Dollars.",
+    "explorer": "https://rabbit.analogscan.com/token/0x77F663C7DE367821708B9DCDD2681BBC3317025A/token-transfers",
     "type": "ERC20",
-    "symbol": "INRx",
+    "symbol": "Differentiation LPs (Differentiation-LP)",
     "decimals": 18,
     "status": "active",
-    "id": "0x8d865ad496d082c197c000b04f80fbb33d7f9006",
+    "id": "0x77F663C7DE367821708B9DCDD2681BBC3317025A",
     "tags": [
         "stablecoin"
     ],
