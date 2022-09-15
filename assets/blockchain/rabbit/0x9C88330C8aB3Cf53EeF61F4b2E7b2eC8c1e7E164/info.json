@@ -2,12 +2,12 @@
     "name": "Analog",
     "website": "https://www.trueusd.com/",
     "description": "TrueUSD is the first independently-verified digital asset redeemable 1-for-1 for US Dollars.",
-    "explorer": "https://rabbit.analogscan.com/token/0x910439b4855c3F45624cA2154778F13Ff2D3243E",
+    "explorer": "https://rabbit.analogscan.com/token/0x9C88330C8aB3Cf53EeF61F4b2E7b2eC8c1e7E164",
     "type": "ERC20",
     "symbol": "CalC",
     "decimals": 18,
     "status": "active",
-    "id": "0x910439b4855c3F45624cA2154778F13Ff2D3243E",
+    "id": "0x9C88330C8aB3Cf53EeF61F4b2E7b2eC8c1e7E164",
     "tags": [
         "stablecoin"
     ],
